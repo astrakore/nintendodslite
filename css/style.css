@@ -59,6 +59,17 @@ body {
     flex-direction: column;
 }
 
+.columnaBot {
+    width: 10em;
+    height: 10em;
+
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+
+    display: flex;
+    flex-direction: column;
+}
+
 .bisagra {
     width: 40em;
     height: 2.6em;
@@ -97,6 +108,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.cruceta {
+    background-color: rgb(247, 202, 207);
+
+    outline: solid;
+    outline-width: 0.1em;
+    outline-color: black;
 }
 
 .boton {
