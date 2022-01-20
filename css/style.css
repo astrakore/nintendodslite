@@ -16,6 +16,11 @@ body {
 
 /* CLASES */
 
+.general {
+    width: 40em;
+    height: 42.6em;
+}
+
 .carcasa1 {
     width: 40em;
     height: 20em;
