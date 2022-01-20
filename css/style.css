@@ -1,12 +1,5 @@
 /* TIPO */
 
-* {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
 body {
     height: 100vh;
     width: 100vh;
@@ -19,6 +12,12 @@ body {
 .general {
     width: 40em;
     height: 42.6em;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .carcasa1 {
@@ -33,6 +32,8 @@ body {
 
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .carcasa2 {
@@ -47,6 +48,8 @@ body {
 
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .columna {
@@ -57,6 +60,8 @@ body {
 
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .columnaBot {
@@ -68,6 +73,8 @@ body {
 
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .bisagra {
@@ -110,8 +117,39 @@ body {
     justify-content: center;
 }
 
+.columnaCru {
+    width: 10em;
+    height: 10em;
+
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.columnaVac {
+    width: 10em;
+    height: 10em;
+
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .cruceta {
+    height: 10.4em;
+    width: 10.4em;
+    
     background-color: rgb(247, 202, 207);
+
+    border-radius: -90em;
 
     outline: solid;
     outline-width: 0.1em;
@@ -125,6 +163,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 
     color: black;
 
