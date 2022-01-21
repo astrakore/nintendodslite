@@ -4,14 +4,19 @@ body {
     height: 100vh;
     width: 100vh;
 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
     background-color: white;
 }
 
 /* CLASES */
 
 .general {
-    width: 40em;
-    height: 42.6em;
+    width: 100vw;
+    height: 100vh;
 
     display: flex;
     flex-direction: column;
