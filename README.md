@@ -6,7 +6,7 @@ Esta Nintendo DS Lite ha sido hecha íntegramente con HTML y CSS. Es el primer p
 
 ## ᕙ(`▿´)ᕗ Tecnologías utilizadas
 
-Únicamente he usado HTML y CSS para recrear el frontal de una Nintendo DS Lite de color rosa con los botones y cruceta color lavanda.
+Únicamente he usado HTML y CSS para recrear el frontal de una Nintendo DS Lite de color rosa con los botones y cruceta color lavanda que muestra en sus dos pantallas el videojuego Dragon Quest IX: Centinelas del firmamento.
 
 ## (✿◠‿◠) Diseño
 
