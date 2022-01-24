@@ -3,6 +3,7 @@
 ## ( ͡❛ ͜ʖ ͡❛) Introducción
 
 Esta Nintendo DS Lite ha sido hecha íntegramente con HTML y CSS. Es el primer proyecto del Bootcamp FullStack Developer de Geekshubs Academy Valencia.
+![capturaDS](https://user-images.githubusercontent.com/95984367/150743313-55008dae-090e-4c9e-893d-bb2e464d1afc.PNG)
 
 ## ᕙ(`▿´)ᕗ Tecnologías utilizadas
 
